@@ -1,0 +1,42 @@
+
+p{
+    padding: 10px 150px 20px 00px;
+    font-size: 50px;
+} 
+ul{
+    list-style: none;
+}
+.parrafo{
+     width: 200px;
+    font-size: 20px;
+    padding: 30px 90px 30px 90px;
+    margin: 0px 0px 0px 200px;
+    
+     border: 1px solid black;
+}
+.fase1{
+    width: 400px;
+    padding: 0px 0px 0px 50px;
+    display: flex;
+    
+    
+}
+.parrafo2{
+    padding: 30px;
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 0px 0px 300px 650px;
+    font-size: 20px;
+}
+.boton{
+    padding: 17px 34px 17px 34px;
+    text-decoration: none;
+    color: #fff;
+    background-color: orange;
+}
+.boton:hover{
+    background-color:darkolivegreen;
+    padding: 17px 39px 17px 39px;
+       transition: 0.2s;
+}
